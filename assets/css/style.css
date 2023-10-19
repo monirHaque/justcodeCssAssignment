@@ -54,7 +54,7 @@ img {
 .navigation ul {
   list-style: none;
   display: flex;
-  gap: 13px;
+  gap: 45px;
 }
 .navigation ul li a {
   color: white;
